@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/jin-store/static/css/main.a43e8813.css",
+    "main.js": "/jin-store/static/js/main.297787c6.js",
+    "static/media/fa-solid-900.ttf": "/jin-store/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/fa-brands-400.ttf": "/jin-store/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/fa-solid-900.woff2": "/jin-store/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/fa-brands-400.woff2": "/jin-store/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/fa-regular-400.ttf": "/jin-store/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/fa-regular-400.woff2": "/jin-store/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/fa-v4compatibility.ttf": "/jin-store/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/jin-store/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "index.html": "/jin-store/index.html",
+    "main.a43e8813.css.map": "/jin-store/static/css/main.a43e8813.css.map",
+    "main.297787c6.js.map": "/jin-store/static/js/main.297787c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a43e8813.css",
+    "static/js/main.297787c6.js"
+  ]
+}
