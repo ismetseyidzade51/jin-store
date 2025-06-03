@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+$color__white: #ffffff;
+$color__gray: #d3d3d3;
+$large__size: 14px;
+$normal__size: 16px;
+
+/* ==== Banner Side ===== */
+
+.custom-banner {
+    background-color: #800080;
+    width: 100%;
+    height: 40px;
+}
+
+.banner__message {
+    font-size: $large__size;
+    font-weight: 500;
+    color: $color__white;
+}
+
+.banner__timing {
+    font-size: $large__size;
+    font-weight: 500;
+    color: $color__gray;
+}
+
+.banner__timing span {
+    color: $color__white;
+    font-size: 18px;
+    vertical-align: middle;
+    margin: 0 4px;
+}
+
+/* ===== Topbar Side ===== */
+
+.custom-topbar {
+    margin: 0 60px;
+}
+
+.custom-topbar .topbar__left {
+    gap: 10px;
+}
+
+.custom-topbar .topbar__left a {
+   text-decoration: none;
+   color: #6B7280;
+   text-transform: capitalize;
+   font-weight: 400;
+   font-size: $normal__size;
+}
+
+.custom-topbar .topbar__left p {
+   font-size: $normal__size;
+   font-weight: 400;
+   color: #6B7280;
+}
+
+.custom-topbar .topbar__left p span {
+    color: #EA580C;
+    font-weight: 500;
+    font-size: $normal__size;
+}
+
+.custom-topbar .topbar__right {
+    gap: 10px;
+}
+
+.custom-topbar .topbar__right a {
+    text-decoration: none;
+    font-size: $normal__size;
+    font-weight: 400;
+    color: #6B7280;
+    text-transform: capitalize;
+}
+
+.custom-topbar .topbar__right .dropdown span {
+    text-transform: capitalize;
+    color: #6B7280;
+    font-weight: 400;
+    font-size: $normal__size;
+    margin: 0 4px;
+}
+
+.custom-topbar .topbar__right .dropdown a {
+    text-decoration: none;
+}
+
+.custom-topbar .topbar__right .dropdown a i {
+    font-size: 10px;
+}

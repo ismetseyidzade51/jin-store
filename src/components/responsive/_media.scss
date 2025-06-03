@@ -1,0 +1,118 @@
+/* ===== Tablet Responsive ===== */
+@media (min-width: 426px) and (max-width: 768px) {
+    /* ===== Banner Side ===== */
+
+    .custom-banner {
+        flex-direction: column;
+        height: auto;
+    }
+
+    .banner__message {
+        font-size: 14px;
+    }
+
+    .banner__timing {
+        font-size: 14px;
+    }
+
+    .banner__timing span {
+        font-size: 14px;
+    }
+
+    /* ===== Topbar Side ===== */
+
+    .custom-topbar {
+        flex-direction: column;
+    }
+
+    .custom-topbar .topbar__left {
+        flex-direction: column;
+    }
+
+    .custom-topbar .topbar__left a {
+        font-size: 14px;
+    }
+
+    .custom-topbar .topbar__left p {
+        font-size: 14px;
+    }
+
+    .custom-topbar .topbar__left p span {
+        font-size: 14px;
+    }
+
+    .custom-topbar .topbar__right {
+        flex-direction: column;
+    }
+
+    .custom-topbar .topbar__right a {
+        font-size: 14px;
+    }
+
+    .custom-topbar .topbar__right .dropdown span {
+        font-size: 14px;
+    }
+}
+
+/* ===== Mobile Responsive ===== */
+
+@media (min-width: 321px) and (max-width: 425px) {
+    /* ===== Banner Side ===== */
+
+    .custom-banner {
+        flex-direction: column;
+        height: auto;
+    }
+
+    .banner__message {
+        font-size:10px;
+    }
+
+    .banner__timing {
+        font-size: 10px;
+    }
+
+    .banner__timing span {
+        font-size: 10px;
+        margin: 0 2px;
+    }
+
+    .custom-banner {
+        gap: 10px;
+    }
+
+    /* ===== Topbar Side ===== */
+
+    .custom-topbar {
+        flex-direction: column;
+    }
+
+    .custom-topbar .topbar__left {
+        flex-direction: column;
+    }
+
+    .custom-topbar .topbar__left a {
+        font-size: 12px;
+    }
+
+    .custom-topbar .topbar__left p {
+        font-size: 12px;
+    }
+
+    .custom-topbar .topbar__left p span {
+        font-size: 12px;
+    }
+
+    
+    .custom-topbar .topbar__right {
+        flex-direction: column;
+    }
+
+    .custom-topbar .topbar__right a {
+        font-size: 12px;
+    }
+
+    .custom-topbar .topbar__right .dropdown span {
+        font-size: 12px;
+    }
+}

@@ -1,0 +1,20 @@
+@import './_variables';
+@import './_mixins';
+@import './_reset';
+@import './_globals';
+
+/* ===== components style ===== */
+
+@import './components/header';
+@import './components/footer';
+
+
+/* ===== pages style =====*/
+
+@import '../sass/home1';
+@import '../sass/home2';
+@import '../sass/details';
+
+/* ===== responsive style ===== */
+
+@import '../components/responsive/media';
