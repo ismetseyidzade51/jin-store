@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/jin-store/static/css/main.a43e8813.css",
+    "main.css": "/jin-store/static/css/main.2fc9edd5.css",
     "main.js": "/jin-store/static/js/main.5589ad98.js",
     "static/media/fa-solid-900.ttf": "/jin-store/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
     "static/media/fa-brands-400.ttf": "/jin-store/static/media/fa-brands-400.1815e00441357e01619e.ttf",
@@ -11,11 +11,11 @@
     "static/media/fa-v4compatibility.ttf": "/jin-store/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
     "static/media/fa-v4compatibility.woff2": "/jin-store/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/jin-store/index.html",
-    "main.a43e8813.css.map": "/jin-store/static/css/main.a43e8813.css.map",
+    "main.2fc9edd5.css.map": "/jin-store/static/css/main.2fc9edd5.css.map",
     "main.5589ad98.js.map": "/jin-store/static/js/main.5589ad98.js.map"
   },
   "entrypoints": [
-    "static/css/main.a43e8813.css",
+    "static/css/main.2fc9edd5.css",
     "static/js/main.5589ad98.js"
   ]
 }
